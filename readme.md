@@ -27,14 +27,15 @@ Pros:
 Cons:
 * Still, a lot of components is missing, and the community is still making the beta release for v1.0.0, which I could not rely on the current version.
 
-# React-Toolbox
+# [React-Toolbox](http://react-toolbox.io/)
 
-* Current version:
-* Open bugs / issues:
-* GitHub Stars:
-* Component Count:
+* Current version: 2.0.0-beta.12
+* Contributors: 218
+* GitHub Stars: 7,568
+* Open bugs / issues: 12/199
 * Size:
-* Maintainers:
+* Maintainers: Javi Velasco | Javi Jiménez | Community
+* License: MIT
 
 Pros:
 
