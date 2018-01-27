@@ -48,7 +48,7 @@ In spite of this fact, React-MD looks surprisingly good. As a matter of fact, th
 * Open bugs / issues:
 * Size:
 * Maintainers:  | Community
-* License: 
+* License:
 
 ## React MDL
 ## React-materialize
@@ -66,6 +66,7 @@ React-Bootstrap was pioneered by Matthew Honnibal, Stephen J. Collings, and Piet
 
 ## Reactstrap
 
+## Pivitol-ui-react
 ---
 
 ## Ant Design
@@ -102,6 +103,10 @@ Specifically, we’re talking about 19 macOS and 10 windows components mimicking
 ## React Belle
 ## Material Components Web
 ## Onsen UI
+## React-foundation-apps
+## React-foundation
+## Aframe-react
+## admin-on-rest
 
 # Khan Academy
 
