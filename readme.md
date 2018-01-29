@@ -33,27 +33,30 @@ Just like Material UI, React-Toolbox favors Google’s Material Design. It is a 
 * Contributors: 218
 * GitHub Stars: 7,568
 * Open bugs / issues: 12/199
-* Size:
 * Maintainers: Javi Velasco | Javi Jiménez | Community
 * License: MIT
 
 ## [React MD](https://react-md.mlaursen.com/)
-As you might’ve guessed, the “MD” in “React-MD” stands for “Material Design”. This library is almost two years old, and it’s 99% a one-man project pushed forward by Mikkel Laursen.
 
-In spite of this fact, React-MD looks surprisingly good. As a matter of fact, the smooth animations and the sheer speed of its documentation/live demonstration website puts Semantic UI to shame. Besides, React MD lets you access 40 high-quality components styled with SASS, beating the component count of many of its competitors.
+* Current version: 1.2.11
+* Contributors: 41
+* GitHub Stars: 1,566
+* Open bugs / issues: 47 / 122
+* Maintainers: Mikkel Laursen | Community
+* License: MIT
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Size:
-* Maintainers:  | Community
-* License:
+## [React-materialize](https://react-materialize.github.io/)
 
-## React MDL
-## React-materialize
-## React-material
-## React-essence
+* Current version: 1.1.2
+* Contributors: 43
+* GitHub Stars: 768
+* Open bugs / issues: 2 / 47
+* Maintainers: Community
+* License: MIT
+
+## [React-essence](https://github.com/Evo-Forge/Essence) - No longer maintained
+## [React MDL](https://tleunen.github.io/react-mdl/) - No longer maintained
+## [React-material](https://github.com/BerkeleyTrue/react-material) - No longer maintained
 
 ---
 
@@ -64,9 +67,31 @@ The idea of building UIs with both Bootstrap and React might be tempting, but th
 
 React-Bootstrap was pioneered by Matthew Honnibal, Stephen J. Collings, and Pieter Vanderwerff. The project is in active development, and it already offers a smart implementation of Bootstrap 3 styling encapsulated into React components. It allows you to create and modify such components using JS objects or JSX without having to worry about potential abstraction issues.
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## Reactstrap
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## Pivitol-ui-react
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ---
 
 ## Ant Design
