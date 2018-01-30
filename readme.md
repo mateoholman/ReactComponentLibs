@@ -194,41 +194,25 @@ Mobile app development framework and SDK using HTML5 and JavaScript. Create beau
 * Maintainers: Monaca & Onsen UI team
 * License: Apache 2.0
 
-## React-foundation-apps
+## [React-foundation](https://react.foundation/)
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 0.9.2
+* Contributors: 6
+* GitHub Stars: 382
+* Open bugs / issues: 1 / 10
+* Maintainers: Digia
+* License: MIT
 
-## React-foundation
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+## [admin-on-rest](https://marmelab.com/admin-on-rest/)
+A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design.
 
-## Aframe-react
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
-
-## admin-on-rest
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 1.3.4
+* Contributors: 115
+* GitHub Stars: 3,508
+* Open bugs / issues: 8 / 51
+* Maintainers: Marmelab
+* License: MIT
 
 # Khan Academy
 
