@@ -194,6 +194,15 @@ Mobile app development framework and SDK using HTML5 and JavaScript. Create beau
 * Maintainers: Monaca & Onsen UI team
 * License: Apache 2.0
 
+## [Elemental UI](https://github.com/elementalui/elemental)
+
+* Current version: 0.61
+* Contributors: 29
+* GitHub Stars: 3,938
+* Open bugs / issues: 1 / 37
+* Maintainers: Thinkmill
+* License: MIT
+
 ## [React-foundation](https://react.foundation/)
 
 * Current version: 0.9.2
@@ -214,7 +223,8 @@ A frontend Framework for building admin applications running in the browser on t
 * Maintainers: Marmelab
 * License: MIT
 
-# Khan Academy
+## Khan Academy
+## [Mulesoft](http://ux.mulesoft.com/#/)
 
 
 ## Resources
