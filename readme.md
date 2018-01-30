@@ -85,8 +85,7 @@ Reactstrap is an easy to implement component library that already utilizes many 
 
 ---
 
-## [Ant Design](https://ant.design/
-)
+## [Ant Design](https://ant.design/)
 Ant Design is way more that just a React library or framework. It’s a massive ecosystem with a proprietary style guide, custom Webpack-based build tool and custom CLI applications. The project is really well-polished, with giants like Alibaba and Baidu using it. There are more than 50 React components within the library at this time!
 
 * Current version: 3.1.6
@@ -116,43 +115,29 @@ This library promises a clean React-friendly implementation of Semantic UI with 
 * Maintainers: Semantic UI LLC & Community
 * License: MIT
 
-## Fabric
-The official React components library from Microsoft, Fabric brings the aesthetic of Ms Office to third-party web apps. Much like Material Design, Fabric is a complete design language rather than a collection of “starter-pack” styles that you will heavily modify.
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+## [Fabric](https://developer.microsoft.com/en-us/fabric#/components)
+The official React components library from Microsoft, Fabric brings the aesthetic of MS Office to third-party web apps. Much like Material Design, Fabric is a complete design language rather than a collection of “starter-pack” styles that you will heavily modify.
 
 One tricky thing with the library is the licensing of the fonts and brand icons. While the library itself is MIT-licensed, the fonts and brand icons from MSFT aren’t. This means they might be out of reach if you’re working on an independent project, which seems like a downer.
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 5.44.0
+* Contributors: 209
+* GitHub Stars: 2,208
+* Open bugs / issues: 111 / 401
+* Maintainers: Microsoft
+* License: Partial MIT
 
-## Grommet
+## [Grommet](http://grommet.io/)
 Grommet makes a great first impression thanks to its neat documentation, style guide, and its huge number of available UI components. Furthermore, it offers a solid enterprise-grade solution complete with a full-fledged design language.
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
 
 Being a project of Hewlett Packard, Grommet reflects the company’s vision of UX best practices, which might feel a little too specific. In fact, developers claim the framework’s component structuring is somewhat restrictive, with certain components only accepting certain children, nested in a certain way.
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 1.10.0
+* Contributors: 98
+* GitHub Stars: 2,851
+* Open bugs / issues: ? / 95
+* Maintainers: Hewlett Packard & Community
+* License: Apache 2.0
 
 ## Rebass
 Rebas might seem like another “work-in-progress” library, yet its Github page demonstrates recent major contributions. Rebass uses styled components and enables developers to implement architecture patterns based on the separation of concerns between presentational and container components.
@@ -164,7 +149,7 @@ A peculiar thing about Rebass is that it only includes presentational UI compone
 * GitHub Stars:
 * Open bugs / issues:
 * Maintainers:
-* License:
+* License: MIT
 
 ## React Desktop
 React Desktop is different from other libraries on this list because it’s essentially a small collection of Windows and macOS UI elements.
