@@ -92,7 +92,7 @@ Ant Design is way more that just a React library or framework. It’s a massive 
 * Contributors: 426
 * GitHub Stars: 23,571
 * Open bugs / issues: 20 / 174
-* Maintainers: Ant Financial & Community
+* Maintainers: Ant Financial
 * License: MIT
 
 ## [Blueprint](http://blueprintjs.com/)
@@ -102,7 +102,7 @@ Blueprint is a component library with a primary focus on building data-heavy int
 * Contributors: 82
 * GitHub Stars: 8,189
 * Open bugs / issues: 73 / 302
-* Maintainers: Palantir & Community
+* Maintainers: Palantir
 * License: Apache 2.0
 
 ## [Semantic UI](https://semantic-ui.com/)
@@ -112,7 +112,7 @@ This library promises a clean React-friendly implementation of Semantic UI with 
 * Contributors: 180
 * GitHub Stars: 39,284
 * Open bugs / issues: 196 / 1,211
-* Maintainers: Semantic UI LLC & Community
+* Maintainers: Semantic UI LLC
 * License: MIT
 
 ## [Fabric](https://developer.microsoft.com/en-us/fabric#/components)
@@ -136,32 +136,30 @@ Being a project of Hewlett Packard, Grommet reflects the company’s vision of U
 * Contributors: 98
 * GitHub Stars: 2,851
 * Open bugs / issues: ? / 95
-* Maintainers: Hewlett Packard & Community
+* Maintainers: Hewlett Packard
 * License: Apache 2.0
 
-## Rebass
-Rebas might seem like another “work-in-progress” library, yet its Github page demonstrates recent major contributions. Rebass uses styled components and enables developers to implement architecture patterns based on the separation of concerns between presentational and container components.
+## [Rebass](http://jxnblk.com/rebass/)
+Rebass uses styled components and enables developers to implement architecture patterns based on the separation of concerns between presentational and container components. This approach leaves you writing container components to handle application logic and higher-level architecture, but it also allows for greater flexibility. Rebass appears to be in a state of inactivity for the last 6 months.
 
-A peculiar thing about Rebass is that it only includes presentational UI components. This approach leaves you writing container components to handle application logic and higher-level architecture, but it also allows for greater flexibility.
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
+* Current version: 1.0.4
+* Contributors: 26
+* GitHub Stars: 3,386
+* Open bugs / issues: ? / 43
+* Maintainers: Brent Jackson
 * License: MIT
 
-## React Desktop
+## [React Desktop](http://reactdesktop.js.org/)
 React Desktop is different from other libraries on this list because it’s essentially a small collection of Windows and macOS UI elements.
 
-Specifically, we’re talking about 19 macOS and 10 windows components mimicking native UI elements of the two operational systems.
+Specifically, we’re talking about 19 macOS and 12 windows components mimicking native UI elements of the two operational systems.
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 0.3.3
+* Contributors: 14
+* GitHub Stars: 7,053
+* Open bugs / issues: 7 / 24
+* Maintainers: Gabriel Bull
+* License: MIT
 
 ## Pivitol-ui-react
 
