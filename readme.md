@@ -161,14 +161,14 @@ Specifically, we’re talking about 19 macOS and 12 windows components mimicking
 * Maintainers: Gabriel Bull
 * License: MIT
 
-## Pivitol-ui-react
+## [Pivitol-ui-react](https://styleguide.pivotal.io/)
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
+* Current version: 13.0.1
+* Contributors: 64
+* GitHub Stars: 524
+* Open bugs / issues: ? / 6
 * Maintainers: Pivotal Software Inc
-* License:
+* License: MIT
 
 ## React Belle
 ## Material Components Web
