@@ -85,7 +85,8 @@ Reactstrap is an easy to implement component library that already utilizes many 
 
 ---
 
-## [Ant Design](https://ant.design/)
+## [Ant Design](https://ant.design/
+)
 Ant Design is way more that just a React library or framework. It’s a massive ecosystem with a proprietary style guide, custom Webpack-based build tool and custom CLI applications. The project is really well-polished, with giants like Alibaba and Baidu using it. There are more than 50 React components within the library at this time!
 
 * Current version: 3.1.6
@@ -95,31 +96,87 @@ Ant Design is way more that just a React library or framework. It’s a massive 
 * Maintainers: Ant Financial & Community
 * License: MIT
 
-## Blueprint
-Blueprint is a component library with a primary focus on building data-heavy interfaces for desktop screens. Being essentially desktop-first, it doesn’t offer much in the way of mobile UIs, which is an important thing to consider. One distinguishing feature of Blueprint is that it’s a TypeScript-based React library.
+## [Blueprint](http://blueprintjs.com/)
+Blueprint is a component library with a primary focus on building data-heavy interfaces for desktop screens. Being essentially desktop-first, it doesn’t offer much in the way of mobile UIs, which is an important thing to consider.
+
+* Current version: 1.35.2
+* Contributors: 82
+* GitHub Stars: 8,189
+* Open bugs / issues: 73 / 302
+* Maintainers: Palantir & Community
+* License: Apache 2.0
 
 ## Semantic UI
 This library promises a clean React-friendly implementation of Semantic UI with its minimalist out-of-the-box styling. The original vision behind Semantic UI comes down to the use of standard React components that developers can modify and expand.
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## Fabric
 The official React components library from Microsoft, Fabric brings the aesthetic of Ms Office to third-party web apps. Much like Material Design, Fabric is a complete design language rather than a collection of “starter-pack” styles that you will heavily modify.
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 One tricky thing with the library is the licensing of the fonts and brand icons. While the library itself is MIT-licensed, the fonts and brand icons from MSFT aren’t. This means they might be out of reach if you’re working on an independent project, which seems like a downer.
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
 
 ## Grommet
 Grommet makes a great first impression thanks to its neat documentation, style guide, and its huge number of available UI components. Furthermore, it offers a solid enterprise-grade solution complete with a full-fledged design language.
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 Being a project of Hewlett Packard, Grommet reflects the company’s vision of UX best practices, which might feel a little too specific. In fact, developers claim the framework’s component structuring is somewhat restrictive, with certain components only accepting certain children, nested in a certain way.
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
 
 ## Rebass
 Rebas might seem like another “work-in-progress” library, yet its Github page demonstrates recent major contributions. Rebass uses styled components and enables developers to implement architecture patterns based on the separation of concerns between presentational and container components.
 
 A peculiar thing about Rebass is that it only includes presentational UI components. This approach leaves you writing container components to handle application logic and higher-level architecture, but it also allows for greater flexibility.
 
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## React Desktop
 React Desktop is different from other libraries on this list because it’s essentially a small collection of Windows and macOS UI elements.
 
 Specifically, we’re talking about 19 macOS and 10 windows components mimicking native UI elements of the two operational systems.
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
 
 ## Pivitol-ui-react
 
