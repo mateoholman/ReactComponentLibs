@@ -223,8 +223,25 @@ A frontend Framework for building admin applications running in the browser on t
 * Maintainers: Marmelab
 * License: MIT
 
-## Khan Academy
+## [React Virtualized](http://www.reactvirtualized.com/)
+React components for efficiently rendering large lists and tabular data
+
+* Current version: 9.18.0
+* Contributors: 139
+* GitHub Stars: 8,726
+* Open bugs / issues:
+* Maintainers:
+* License: MIT
+
+## [SearchKit](http://docs.searchkit.co/stable/index.html)
+SearchKit is a suite of UI components built in react. The aim is rapidly create beautiful search applications using declarative components, and without being an ElasticSearch expert.
+
 ## [Mulesoft](http://ux.mulesoft.com/#/)
+## [PrimeReact](https://primefaces.org/primereact/)
+## [Design System React](https://react.lightningdesignsystem.com/)
+
+## [Khan Academy](https://khan.github.io/react-components/)
+
 
 
 ## Resources
