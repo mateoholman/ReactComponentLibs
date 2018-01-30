@@ -185,13 +185,14 @@ Specifically, we’re talking about 19 macOS and 12 windows components mimicking
 * License: MIT
 
 ## Onsen UI
+Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. Great docs!
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 2.9.1
+* Contributors: 86
+* GitHub Stars: 5,953
+* Open bugs / issues: 7 / 47
+* Maintainers: Monaca & Onsen UI team
+* License: Apache 2.0
 
 ## React-foundation-apps
 
