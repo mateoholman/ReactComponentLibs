@@ -54,9 +54,14 @@ Just like Material UI, React-Toolbox favors Google’s Material Design. It is a 
 * Maintainers: Community
 * License: MIT
 
-## [React-essence](https://github.com/Evo-Forge/Essence) - No longer maintained
-## [React MDL](https://tleunen.github.io/react-mdl/) - No longer maintained
-## [React-material](https://github.com/BerkeleyTrue/react-material) - No longer maintained
+## Material Components Web
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
 
 ---
 
@@ -170,13 +175,59 @@ Specifically, we’re talking about 19 macOS and 12 windows components mimicking
 * Maintainers: Pivotal Software Inc
 * License: MIT
 
-## React Belle
-## Material Components Web
+## [Belle](http://nikgraf.github.io/belle/)
+
+* Current version: 3.0.2
+* Contributors: 19
+* GitHub Stars: 2,106
+* Open bugs / issues: 4 / 46
+* Maintainers: Nik Graf
+* License: MIT
+
 ## Onsen UI
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## React-foundation-apps
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## React-foundation
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## Aframe-react
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
+
 ## admin-on-rest
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers:
+* License:
 
 # Khan Academy
 
