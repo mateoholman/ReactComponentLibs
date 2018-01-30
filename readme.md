@@ -61,43 +61,39 @@ Just like Material UI, React-Toolbox favors Google’s Material Design. It is a 
 ---
 
 # Bootstrap
+Bootstrap is a popular free and open-source front-end web framework. There are several component libraries that have been built around the bootstrap framework.
 
-## React-Bootstrap
-The idea of building UIs with both Bootstrap and React might be tempting, but the combo is too messy to write on your own. Luckily, some folks are already doing it for you, and their project is gaining traction.
+## [React-Bootstrap](https://react-bootstrap.github.io/)
+React-Bootstrap was pioneered by Matthew Honnibal, Stephen J. Collings, and Pieter Vanderwerff. The project is in active development, but still on a roadmap for a 1.0.0 release. It currently offers an implementation of Bootstrap 3 styling encapsulated into React components. It allows you to create and modify such components using JS objects or JSX without having to worry about potential abstraction issues.
 
-React-Bootstrap was pioneered by Matthew Honnibal, Stephen J. Collings, and Pieter Vanderwerff. The project is in active development, and it already offers a smart implementation of Bootstrap 3 styling encapsulated into React components. It allows you to create and modify such components using JS objects or JSX without having to worry about potential abstraction issues.
+* Current version: 0.32.1
+* Contributors: 198
+* GitHub Stars: 12,110
+* Open bugs / issues: 4 / 43
+* Maintainers: Matthew Honnibal, Stephen J. Collings, and Pieter Vanderwerff | Community
+* License: MIT
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+## [Reactstrap](http://reactstrap.github.io/)
+Reactstrap is an easy to implement component library that already utilizes many of the Bootstrap 4 components.
 
-## Reactstrap
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
-
-## Pivitol-ui-react
-
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 4.8.0
+* Contributors: 79
+* GitHub Stars: 3,436
+* Open bugs / issues: 5 / 70
+* Maintainers: Eddie Hernandez, Evan Sharp & Community
+* License: MIT
 
 ---
 
-## Ant Design
-Ant Design is way more that just a React library or framework. It’s a massive (and somewhat enclosing) ecosystem with a proprietary style guide, custom Webpack-based build tool and custom CLI applications. The project is really well-polished, with giants like Alibaba and Baidu using it.
+## [Ant Design](https://ant.design/)
+Ant Design is way more that just a React library or framework. It’s a massive ecosystem with a proprietary style guide, custom Webpack-based build tool and custom CLI applications. The project is really well-polished, with giants like Alibaba and Baidu using it. There are more than 50 React components within the library at this time!
 
-On the overall, Ant Design would look really neat if it weren’t for one gotcha: most of the documentation, PRs and discussions are in Chinese. The React components library, on the other hand, has English documentation. Besides, the impressive assortment of 50+ React components really makes the case for Ant Design.
+* Current version: 3.1.6
+* Contributors: 426
+* GitHub Stars: 23,571
+* Open bugs / issues: 20 / 174
+* Maintainers: Ant Financial & Community
+* License: MIT
 
 ## Blueprint
 Blueprint is a component library with a primary focus on building data-heavy interfaces for desktop screens. Being essentially desktop-first, it doesn’t offer much in the way of mobile UIs, which is an important thing to consider. One distinguishing feature of Blueprint is that it’s a TypeScript-based React library.
@@ -124,6 +120,15 @@ A peculiar thing about Rebass is that it only includes presentational UI compone
 React Desktop is different from other libraries on this list because it’s essentially a small collection of Windows and macOS UI elements.
 
 Specifically, we’re talking about 19 macOS and 10 windows components mimicking native UI elements of the two operational systems.
+
+## Pivitol-ui-react
+
+* Current version:
+* Contributors:
+* GitHub Stars:
+* Open bugs / issues:
+* Maintainers: Pivotal Software Inc
+* License:
 
 ## React Belle
 ## Material Components Web
