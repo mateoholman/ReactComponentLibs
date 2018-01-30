@@ -106,15 +106,15 @@ Blueprint is a component library with a primary focus on building data-heavy int
 * Maintainers: Palantir & Community
 * License: Apache 2.0
 
-## Semantic UI
+## [Semantic UI](https://semantic-ui.com/)
 This library promises a clean React-friendly implementation of Semantic UI with its minimalist out-of-the-box styling. The original vision behind Semantic UI comes down to the use of standard React components that developers can modify and expand.
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 2.2.14
+* Contributors: 180
+* GitHub Stars: 39,284
+* Open bugs / issues: 196 / 1,211
+* Maintainers: Semantic UI LLC & Community
+* License: MIT
 
 ## Fabric
 The official React components library from Microsoft, Fabric brings the aesthetic of Ms Office to third-party web apps. Much like Material Design, Fabric is a complete design language rather than a collection of “starter-pack” styles that you will heavily modify.
