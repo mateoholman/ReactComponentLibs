@@ -54,14 +54,14 @@ Just like Material UI, React-Toolbox favors Google’s Material Design. It is a 
 * Maintainers: Community
 * License: MIT
 
-## Material Components Web
+## [React Material Components Web](https://jamesmfriedman.github.io/rmwc/)
 
-* Current version:
-* Contributors:
-* GitHub Stars:
-* Open bugs / issues:
-* Maintainers:
-* License:
+* Current version: 1.1.1
+* Contributors: 9
+* GitHub Stars: 290
+* Open bugs / issues: 1 / 12
+* Maintainers: James Friedman
+* License: MIT
 
 ---
 
