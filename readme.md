@@ -1,5 +1,7 @@
 # Choosing a React Component Library
 
+There are many React component libraries that have already been developed, are actively maintained, and are ready to use on your project. Using an existing component library will help keep your code readable and maintainable, speed-up your development and help you ship your product faster. This talk will guide you through some of the available options and help you choose a library that best fits your project!
+
 Component libraries allow you to speed up UI development.
 They often enforce development approaches and best practices.
 They minimize decision fatigue.
@@ -8,6 +10,8 @@ They help keep your code readable and maintainable.
 
 Choosing a library will depend on what you need.
 There are a shitton of options out there.
+
+Matthew Holman is an entrepreneur, React enthusiast and frontend developer for Cylance. He has been developing with React since 2016 and has made several open source React contributions. He focuses his day to day work within the React ecosystem and has built an impressive collection of unfinished side projects. In his spare time, Matthew likes to annoy with his wife and children, drink craft beer and code -- sometimes in unison!
 
 ---
 
@@ -100,6 +104,16 @@ Ant Design is way more that just a React library or framework. It’s a massive 
 * Maintainers: Ant Financial
 * License: MIT
 
+## [Semantic UI React](https://react.semantic-ui.com/introduction)
+This library promises a clean React-friendly implementation of Semantic UI with its minimalist out-of-the-box styling. The original vision behind Semantic UI comes down to the use of standard React components that developers can modify and expand.
+
+* Current version: 0.77.2
+* Contributors: 163
+* GitHub Stars: 5,719
+* Open bugs / issues: 19 / 76
+* Maintainers: Semantic Organization
+* License: MIT
+
 ## [Blueprint](http://blueprintjs.com/)
 Blueprint is a component library with a primary focus on building data-heavy interfaces for desktop screens. Being essentially desktop-first, it doesn’t offer much in the way of mobile UIs, which is an important thing to consider.
 
@@ -109,16 +123,6 @@ Blueprint is a component library with a primary focus on building data-heavy int
 * Open bugs / issues: 73 / 302
 * Maintainers: Palantir
 * License: Apache 2.0
-
-## [Semantic UI](https://semantic-ui.com/)
-This library promises a clean React-friendly implementation of Semantic UI with its minimalist out-of-the-box styling. The original vision behind Semantic UI comes down to the use of standard React components that developers can modify and expand.
-
-* Current version: 2.2.14
-* Contributors: 180
-* GitHub Stars: 39,284
-* Open bugs / issues: 196 / 1,211
-* Maintainers: Semantic UI LLC
-* License: MIT
 
 ## [Fabric](https://developer.microsoft.com/en-us/fabric#/components)
 The official React components library from Microsoft, Fabric brings the aesthetic of MS Office to third-party web apps. Much like Material Design, Fabric is a complete design language rather than a collection of “starter-pack” styles that you will heavily modify.
@@ -236,12 +240,21 @@ React components for efficiently rendering large lists and tabular data
 ## [SearchKit](http://docs.searchkit.co/stable/index.html)
 SearchKit is a suite of UI components built in react. The aim is rapidly create beautiful search applications using declarative components, and without being an ElasticSearch expert.
 
+GitHub Stars: 3,207
+
 ## [Mulesoft](http://ux.mulesoft.com/#/)
+GiHub Stars: 552
+
 ## [PrimeReact](https://primefaces.org/primereact/)
+
+GitHub stars: 274
+
 ## [Design System React](https://react.lightningdesignsystem.com/)
 
-## [Khan Academy](https://khan.github.io/react-components/)
+GitHub stars: 86
 
+## [Khan Academy](https://khan.github.io/react-components/)
+GitHub stars: 934
 
 
 ## Resources
