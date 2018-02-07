@@ -216,17 +216,6 @@ Mobile app development framework and SDK using HTML5 and JavaScript. Create beau
 * Maintainers: Digia
 * License: MIT
 
-
-## [admin-on-rest](https://marmelab.com/admin-on-rest/)
-A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design.
-
-* Current version: 1.3.4
-* Contributors: 115
-* GitHub Stars: 3,508
-* Open bugs / issues: 8 / 51
-* Maintainers: Marmelab
-* License: MIT
-
 ## [React Virtualized](http://www.reactvirtualized.com/)
 React components for efficiently rendering large lists and tabular data
 
@@ -241,6 +230,16 @@ React components for efficiently rendering large lists and tabular data
 SearchKit is a suite of UI components built in react. The aim is rapidly create beautiful search applications using declarative components, and without being an ElasticSearch expert.
 
 GitHub Stars: 3,207
+
+## [admin-on-rest](https://marmelab.com/admin-on-rest/)
+A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design.
+
+* Current version: 1.3.4
+* Contributors: 115
+* GitHub Stars: 3,508
+* Open bugs / issues: 8 / 51
+* Maintainers: Marmelab
+* License: MIT
 
 ## [Mulesoft](http://ux.mulesoft.com/#/)
 GiHub Stars: 552
