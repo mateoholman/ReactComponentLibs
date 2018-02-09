@@ -8,9 +8,6 @@ They minimize decision fatigue.
 They allow you to ship an MVP / product faster.
 They help keep your code readable and maintainable.
 
-Choosing a library will depend on what you need.
-There are a shitton of options out there.
-
 Matthew Holman is an entrepreneur, React enthusiast and frontend developer for Cylance. He has been developing with React since 2016 and has made several open source React contributions. He focuses his day to day work within the React ecosystem and has built an impressive collection of unfinished side projects. In his spare time, Matthew likes to annoy with his wife and children, drink craft beer and code -- sometimes in unison!
 
 ---
